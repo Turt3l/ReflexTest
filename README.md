@@ -1,2 +1,2 @@
-# ReflexTest
-Made a little reflex test program, just because i dont know how to play cs
+Heres my attempt at making a little reaction training game.
+Enjoy :)
